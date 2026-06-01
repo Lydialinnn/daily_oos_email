@@ -55,7 +55,7 @@ API_VERSION = "2025-04"
 
 STLTH_TRACKER_ID = '12Xkz-R0_pTojjuYyvazLEP52SyP19viBmUHQ0o1UkzU' # "1nfPgekdL4VBwls5FuTOBgbE6Xt0HgbDkxm599aQr7hk"
 JUICE_TRACKER_ID = '1AoPXz3cuaS99MgPdl6KbeHxnhkt9mZxxQIsdfWuSGDQ' # "1p9_V9XeBr_RGlT_Bw9Sdo2U7c_vycNNx7vaJ83d9_W0"
-DISPOSABLE_TRACKER_ID = '1QD1q1Z4vYEeY5XvKKU_YFRWtnGEeMzfeMNnZV-RBoaE' # "1MPt1oiGcb3UJrwnUtOjJ-D4CjS7b6pgsb07ZYeTq73U"
+DISPOSABLE_TRACKER_ID = '1QD1q1Z4vYEeY5XvKKU_YFRWtnGEeMzfeMNnZV-RBoaE' # "1MPt1oiGcb3UJrwnUtOjJ-D4CjS7b6pgsb07ZYeTq73U" #new testing
 
 TABLE_STLTH = "STLTH_tracker_daily_low_stock_log"
 TABLE_JUICE = "Juice_tracker_daily_low_stock_log"
